@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #EDCD40;
+	color: #000002;
+	background-color: #FAA5E1;
 }
 
 .html
@@ -892,7 +892,7 @@
 
 ._u782.f3s_top
 {
-	background-image: url("../images/u2253-sprite.png");
+	background-image: url("../images/u782-sprite.png");
 	width: 23px;
 	overflow: hidden;
 	height: 11px;
@@ -901,7 +901,7 @@
 
 ._u782.f3s_mid
 {
-	background-image: url("../images/u2253-sprite.png");
+	background-image: url("../images/u782-sprite.png");
 	overflow: visible;
 	background-position: -23px top;
 	width: 23px;
@@ -910,7 +910,7 @@
 
 ._u782.f3s_bot
 {
-	background-image: url("../images/u2253-sprite.png");
+	background-image: url("../images/u782-sprite.png");
 	width: 23px;
 	overflow: visible;
 	height: 10px;
