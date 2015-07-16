@@ -1,40 +1,47 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.chinatowncafe12.com" resolutions="1x" timestamp="1436945549385">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.chinatowncafe12.com" resolutions="1x" timestamp="1437012743349">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="129746497" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3857972683" seo="true" mt="1437012731950" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4081445454" ref="index"/>
+    <file name="index.css" crc="53782017" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
-    <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="webpro.js" crc="3803554875" ref="index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:tablet>index"/>
+    <file name="museutils.js" crc="183364071" ref="index:tablet>index"/>
+    <file name="pie.js" crc="3827607177" ref="index:tablet>index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:tablet>index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:tablet>index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:tablet>index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:tablet>index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
   </folder>
   <folder name="images">
-    <file name="img_2556.jpg" crc="4018206159" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="img_1252.jpg" crc="4278582174" seo="true" ref="index"/>
-    <file name="img_3556-crop-u3719.jpg" crc="3985632304" ref="index"/>
-    <file name="img_4018.jpg" crc="3953861654" seo="true" ref="index"/>
-    <file name="img_6513.jpg" crc="3873652741" seo="true" ref="index"/>
+    <file name="img_2556.jpg" crc="4018206159" seo="true" ref="index:tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tablet>index"/>
+    <file name="img_1252.jpg" crc="4278582174" seo="true" ref="index:tablet>index"/>
+    <file name="img_3556-crop-u3719.jpg" crc="3888633097" ref="index"/>
+    <file name="img_4018.jpg" crc="3953861654" seo="true" ref="index:tablet>index"/>
+    <file name="img_6513.jpg" crc="3873652741" seo="true" ref="index:tablet>index"/>
     <file name="img_7297-crop-u3717.jpg" crc="293108699" ref="index"/>
-    <file name="img_9682.jpg" crc="152845017" seo="true" ref="index"/>
-    <file name="img_9870.jpg" crc="3836023713" seo="true" ref="index"/>
-    <file name="img_8542.jpg" crc="235530703" seo="true" ref="index"/>
-    <file name="img_9867.jpg" crc="3817507466" seo="true" ref="index"/>
-    <file name="img_255660x51.jpg" crc="3842591972" seo="true" ref="index"/>
-    <file name="img_125260x46.jpg" crc="4228304695" seo="true" ref="index"/>
+    <file name="img_9682.jpg" crc="152845017" seo="true" ref="index:tablet>index"/>
+    <file name="img_9870.jpg" crc="3836023713" seo="true" ref="index:tablet>index"/>
+    <file name="img_8542.jpg" crc="478991526" seo="true" ref="index:tablet>index"/>
+    <file name="img_9867.jpg" crc="3817507466" seo="true" ref="index:tablet>index"/>
+    <file name="img_255660x51.jpg" crc="3842591972" seo="true" ref="tablet>index"/>
+    <file name="img_125260x46.jpg" crc="4228304695" seo="true" ref="tablet>index"/>
     <file name="img_3556-crop-u3690.jpg" crc="4232191224" ref="index"/>
-    <file name="img_401860x55.jpg" crc="87507195" seo="true" ref="index"/>
-    <file name="img_651360x55.jpg" crc="4187057664" seo="true" ref="index"/>
+    <file name="img_401860x55.jpg" crc="87507195" seo="true" ref="tablet>index"/>
+    <file name="img_651360x55.jpg" crc="4187057664" seo="true" ref="tablet>index"/>
     <file name="img_7297-crop-u3696.jpg" crc="183725714" ref="index"/>
-    <file name="img_968260x55.jpg" crc="4004710186" seo="true" ref="index"/>
-    <file name="img_987066x45.jpg" crc="264806488" seo="true" ref="index"/>
-    <file name="img_854260x57.jpg" crc="348691325" seo="true" ref="index"/>
-    <file name="img_986760x53.jpg" crc="4250913340" seo="true" ref="index"/>
+    <file name="img_968260x55.jpg" crc="4004710186" seo="true" ref="tablet>index"/>
+    <file name="img_987066x45.jpg" crc="264806488" seo="true" ref="tablet>index"/>
+    <file name="img_854260x57.jpg" crc="348691325" seo="true" ref="tablet>index"/>
+    <file name="img_986760x53.jpg" crc="4250913340" seo="true" ref="tablet>index"/>
     <file name="u3709-4.png" crc="111450587" ref="index"/>
     <file name="u3705-4.png" crc="3777254670" ref="index"/>
     <file name="u3704-4.png" crc="164712567" ref="index"/>
@@ -45,17 +52,17 @@
     <file name="u3710-4.png" crc="39515475" ref="index"/>
     <file name="u3711-4.png" crc="368654853" ref="index"/>
     <file name="u3706-4.png" crc="463175462" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:tablet>index"/>
     <file name="u3560.png" crc="207554621" ref="index"/>
     <file name="u3560-r.png" crc="189131404" ref="index"/>
     <file name="u3560-a.png" crc="207554621" ref="index"/>
-    <file name="img_1252105x80.jpg" crc="4187751913" seo="true" ref="index"/>
-    <file name="img_255696x81.jpg" crc="202000072" seo="true" ref="index"/>
-    <file name="img_401890x83.jpg" crc="283562651" seo="true" ref="index"/>
-    <file name="img_355681x82.jpg" crc="138960290" seo="true" ref="index"/>
-    <file name="img_729781x83.jpg" crc="4093755191" seo="true" ref="index"/>
-    <file name="img_85422.jpg" crc="478991526" seo="true" ref="index"/>
-    <file name="img_986798x85.jpg" crc="170341366" seo="true" ref="index"/>
+    <file name="img_1252105x80.jpg" crc="4187751913" seo="true" ref="tablet>index"/>
+    <file name="img_255696x81.jpg" crc="202000072" seo="true" ref="tablet>index"/>
+    <file name="img_401890x83.jpg" crc="283562651" seo="true" ref="tablet>index"/>
+    <file name="img_355681x82.jpg" crc="138960290" seo="true" ref="tablet>index"/>
+    <file name="img_729781x83.jpg" crc="4093755191" seo="true" ref="tablet>index"/>
+    <file name="img_85422.jpg" crc="235530703" seo="true" ref="index:tablet>index"/>
+    <file name="img_986798x85.jpg" crc="170341366" seo="true" ref="tablet>index"/>
     <file name="img_968292x84.jpg" crc="123073470" seo="true" ref="index"/>
     <file name="img_284085x84.jpg" crc="358092604" seo="true" ref="index"/>
     <file name="img_557788x85.jpg" crc="3920415364" seo="true" ref="index"/>
@@ -68,7 +75,7 @@
     <file name="u2787-4.png" crc="164144161" ref="index"/>
     <file name="u2788-4.png" crc="46594982" ref="index"/>
     <file name="u2789-4.png" crc="231094856" ref="index"/>
-    <file name="img_2556427x357.jpg" crc="3873077226" seo="true" ref="index"/>
+    <file name="img_2556427x357.jpg" crc="3873077226" seo="true" ref="tablet>index"/>
     <file name="u2781-10.png" crc="4185697305" ref="index"/>
     <file name="u2770-4.png" crc="11823510" ref="index"/>
     <file name="u2771-4.png" crc="4294250763" ref="index"/>
@@ -76,7 +83,7 @@
     <file name="u2780-4.png" crc="333760601" ref="index"/>
     <file name="u2775-4.png" crc="4271838171" ref="index"/>
     <file name="u2776-4.png" crc="269280509" ref="index"/>
-    <file name="img_4018392x358.jpg" crc="432448993" seo="true" ref="index"/>
+    <file name="img_4018392x358.jpg" crc="432448993" seo="true" ref="tablet>index"/>
     <file name="u2764-10.png" crc="4174167951" ref="index"/>
     <file name="u2761-4.png" crc="11823510" ref="index"/>
     <file name="u2756-4.png" crc="4294250763" ref="index"/>
@@ -84,11 +91,11 @@
     <file name="u2753-4.png" crc="333760601" ref="index"/>
     <file name="u2752-4.png" crc="4271838171" ref="index"/>
     <file name="u2750-4.png" crc="269280509" ref="index"/>
-    <file name="img_3556356x357.jpg" crc="4144507344" seo="true" ref="index"/>
+    <file name="img_3556356x357.jpg" crc="4144507344" seo="true" ref="tablet>index"/>
     <file name="u2848-8.png" crc="3896092586" ref="index"/>
     <file name="u2844-4.png" crc="4123394758" ref="index"/>
     <file name="u2846-4.png" crc="4258733248" ref="index"/>
-    <file name="img_7297350x358.jpg" crc="4012317491" seo="true" ref="index"/>
+    <file name="img_7297350x358.jpg" crc="4012317491" seo="true" ref="tablet>index"/>
     <file name="u2745-16.png" crc="4081972961" ref="index"/>
     <file name="u2735-4.png" crc="11823510" ref="index"/>
     <file name="u2732-4.png" crc="4294250763" ref="index"/>
@@ -96,11 +103,11 @@
     <file name="u2741-4.png" crc="333760601" ref="index"/>
     <file name="u2743-4.png" crc="4271838171" ref="index"/>
     <file name="u2744-4.png" crc="269280509" ref="index"/>
-    <file name="img_8542379x355.jpg" crc="337070379" seo="true" ref="index"/>
+    <file name="img_8542379x355.jpg" crc="337070379" seo="true" ref="tablet>index"/>
     <file name="u2839-12.png" crc="315688244" ref="index"/>
     <file name="u2833-4.png" crc="4123394758" ref="index"/>
     <file name="u2834-4.png" crc="4258733248" ref="index"/>
-    <file name="img_9867416x362.jpg" crc="460342847" seo="true" ref="index"/>
+    <file name="img_9867416x362.jpg" crc="460342847" seo="true" ref="tablet>index"/>
     <file name="u2886-9.png" crc="282074162" ref="index"/>
     <file name="u2871-4.png" crc="11823510" ref="index"/>
     <file name="u2880-4.png" crc="4294250763" ref="index"/>
@@ -108,7 +115,7 @@
     <file name="u2879-4.png" crc="333760601" ref="index"/>
     <file name="u2876-4.png" crc="4271838171" ref="index"/>
     <file name="u2877-4.png" crc="269280509" ref="index"/>
-    <file name="img_9682397x360.jpg" crc="4021623522" seo="true" ref="index"/>
+    <file name="img_9682397x360.jpg" crc="4021623522" seo="true" ref="tablet>index"/>
     <file name="u2865-14.png" crc="432249002" ref="index"/>
     <file name="u2853-4.png" crc="11823510" ref="index"/>
     <file name="u2862-4.png" crc="4294250763" ref="index"/>
@@ -116,16 +123,16 @@
     <file name="u2860-4.png" crc="333760601" ref="index"/>
     <file name="u2859-4.png" crc="4271838171" ref="index"/>
     <file name="u2858-4.png" crc="269280509" ref="index"/>
-    <file name="img_3274.jpg" crc="301999284" seo="true" ref="index"/>
+    <file name="img_3274.jpg" crc="301999284" seo="true" ref="index:tablet>index"/>
     <file name="u2824-4.png" crc="4271838171" ref="index"/>
     <file name="u2823-4.png" crc="307907492" ref="index"/>
     <file name="u2827-4.png" crc="5602738" ref="index"/>
     <file name="u2828-4.png" crc="4045682094" ref="index"/>
-    <file name="img_6202.jpg" crc="3924189050" seo="true" ref="index"/>
+    <file name="img_6202.jpg" crc="3924189050" seo="true" ref="index:tablet>index"/>
     <file name="u2814-4.png" crc="3892888136" ref="index"/>
     <file name="u2821-4.png" crc="4262463718" ref="index"/>
     <file name="u2818-4.png" crc="277026849" ref="index"/>
-    <file name="img_2840.jpg" crc="432068685" seo="true" ref="index"/>
+    <file name="img_2840.jpg" crc="432068685" seo="true" ref="index:tablet>index"/>
     <file name="u2693-6.png" crc="183194563" ref="index"/>
     <file name="u2694-4.png" crc="3810697206" ref="index"/>
     <file name="u2699-4.png" crc="11823510" ref="index"/>
@@ -140,7 +147,7 @@
     <file name="u2715-4.png" crc="270012597" ref="index"/>
     <file name="u2719-4.png" crc="90022732" ref="index"/>
     <file name="u2717-4.png" crc="477009153" ref="index"/>
-    <file name="img_5577-crop-u2805.jpg" crc="20835008" ref="index"/>
+    <file name="img_5577-crop-u2805.jpg" crc="476425941" ref="index"/>
     <file name="u2807-8.png" crc="3903529311" ref="index"/>
     <file name="u2809-4.png" crc="4123394758" ref="index"/>
     <file name="u2810-4.png" crc="3971621464" ref="index"/>
@@ -161,7 +168,7 @@
     <file name="u2901-4.png" crc="239778547" ref="index"/>
     <file name="u2903-4.png" crc="4279086328" ref="index"/>
     <file name="u3178-4.png" crc="408119868" ref="index"/>
-    <file name="pasted image 643x166.jpg" crc="4086561152" seo="true" ref="index"/>
+    <file name="pasted image 643x166.jpg" crc="4086561152" seo="true" ref="index:tablet>index"/>
     <file name="u3211-4.png" crc="11823510" ref="index"/>
     <file name="u3208-4.png" crc="10757173" ref="index"/>
     <file name="u3215-4.png" crc="168007275" ref="index"/>
@@ -212,6 +219,167 @@
     <file name="u2515.png" crc="3995886601" ref="index"/>
     <file name="u2515-r.png" crc="92442904" ref="index"/>
     <file name="u2515-a.png" crc="3995886601" ref="index"/>
+    <file name="u3904.png" crc="207554621" ref="tablet>index"/>
+    <file name="u3904-r.png" crc="189131404" ref="tablet>index"/>
+    <file name="u3904-a.png" crc="207554621" ref="tablet>index"/>
+    <file name="u4266-4.png" crc="3972245300" ref="tablet>index"/>
+    <file name="u4094-15.png" crc="3932190334" ref="tablet>index"/>
+    <file name="u4110-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4112-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4106-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4100-4.png" crc="164144161" ref="tablet>index"/>
+    <file name="u4104-4.png" crc="46594982" ref="tablet>index"/>
+    <file name="u4105-4.png" crc="231094856" ref="tablet>index"/>
+    <file name="u4082-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4072-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4070-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4074-4.png" crc="333760601" ref="tablet>index"/>
+    <file name="u4075-4.png" crc="4271838171" ref="tablet>index"/>
+    <file name="u4076-4.png" crc="269280509" ref="tablet>index"/>
+    <file name="u4068-10.png" crc="4185697305" ref="tablet>index"/>
+    <file name="u4163-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4151-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4164-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4154-4.png" crc="333760601" ref="tablet>index"/>
+    <file name="u4159-4.png" crc="4271838171" ref="tablet>index"/>
+    <file name="u4156-4.png" crc="269280509" ref="tablet>index"/>
+    <file name="u4167-10.png" crc="4174167951" ref="tablet>index"/>
+    <file name="u4207-8.png" crc="3896092586" ref="tablet>index"/>
+    <file name="u4210-4.png" crc="4123394758" ref="tablet>index"/>
+    <file name="u4209-4.png" crc="4258733248" ref="tablet>index"/>
+    <file name="u4181-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4183-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4182-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4176-4.png" crc="333760601" ref="tablet>index"/>
+    <file name="u4175-4.png" crc="4271838171" ref="tablet>index"/>
+    <file name="u4178-4.png" crc="269280509" ref="tablet>index"/>
+    <file name="u4169-16.png" crc="4081972961" ref="tablet>index"/>
+    <file name="u4138-12.png" crc="315688244" ref="tablet>index"/>
+    <file name="u4139-4.png" crc="4123394758" ref="tablet>index"/>
+    <file name="u4133-4.png" crc="4258733248" ref="tablet>index"/>
+    <file name="u4127-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4128-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4116-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4120-4.png" crc="333760601" ref="tablet>index"/>
+    <file name="u4122-4.png" crc="4271838171" ref="tablet>index"/>
+    <file name="u4119-4.png" crc="269280509" ref="tablet>index"/>
+    <file name="u4129-9.png" crc="282074162" ref="tablet>index"/>
+    <file name="u4202-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4199-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4191-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4195-4.png" crc="333760601" ref="tablet>index"/>
+    <file name="u4197-4.png" crc="4271838171" ref="tablet>index"/>
+    <file name="u4193-4.png" crc="269280509" ref="tablet>index"/>
+    <file name="u4188-14.png" crc="432249002" ref="tablet>index"/>
+    <file name="u4222-4.png" crc="4271838171" ref="tablet>index"/>
+    <file name="u4216-4.png" crc="307907492" ref="tablet>index"/>
+    <file name="u4221-4.png" crc="413461055" ref="tablet>index"/>
+    <file name="u4220-4.png" crc="3795367355" ref="tablet>index"/>
+    <file name="u4092-4.png" crc="3892888136" ref="tablet>index"/>
+    <file name="u4091-4.png" crc="492284030" ref="tablet>index"/>
+    <file name="u4088-4.png" crc="350286890" ref="tablet>index"/>
+    <file name="u4257-6.png" crc="183194563" ref="tablet>index"/>
+    <file name="u4256-4.png" crc="3810697206" ref="tablet>index"/>
+    <file name="u4237-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4239-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4238-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4230-4.png" crc="3906299147" ref="tablet>index"/>
+    <file name="u4233-4.png" crc="333760601" ref="tablet>index"/>
+    <file name="u4234-4.png" crc="3885144" ref="tablet>index"/>
+    <file name="u4243-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4245-4.png" crc="4294250763" ref="tablet>index"/>
+    <file name="u4246-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4251-4.png" crc="270012597" ref="tablet>index"/>
+    <file name="u4249-4.png" crc="90022732" ref="tablet>index"/>
+    <file name="u4254-4.png" crc="477009153" ref="tablet>index"/>
+    <file name="img_5577-crop-u4146.jpg" crc="476425941" ref="tablet>index"/>
+    <file name="u4148-8.png" crc="3903529311" ref="tablet>index"/>
+    <file name="u4145-4.png" crc="4123394758" ref="tablet>index"/>
+    <file name="u4143-4.png" crc="3971621464" ref="tablet>index"/>
+    <file name="u4039.png" crc="3994527796" ref="tablet>index"/>
+    <file name="u4039-r.png" crc="4139076266" ref="tablet>index"/>
+    <file name="u4039-a.png" crc="3994527796" ref="tablet>index"/>
+    <file name="u4041.png" crc="505085772" ref="tablet>index"/>
+    <file name="u4041-a.png" crc="505085772" ref="tablet>index"/>
+    <file name="u4053-4.png" crc="4280039771" ref="tablet>index"/>
+    <file name="u4055-4.png" crc="3881501144" ref="tablet>index"/>
+    <file name="u4051-4.png" crc="95143437" ref="tablet>index"/>
+    <file name="u4047-4.png" crc="4233689016" ref="tablet>index"/>
+    <file name="u4059-4.png" crc="62565833" ref="tablet>index"/>
+    <file name="u4057-4.png" crc="4229729309" ref="tablet>index"/>
+    <file name="u4049-4.png" crc="240347961" ref="tablet>index"/>
+    <file name="u4045.png" crc="4258353873" ref="tablet>index"/>
+    <file name="u4045-a.png" crc="4258353873" ref="tablet>index"/>
+    <file name="u4061-4.png" crc="239778547" ref="tablet>index"/>
+    <file name="u4043-4.png" crc="4279086328" ref="tablet>index"/>
+    <file name="u4275-4.png" crc="408119868" ref="tablet>index"/>
+    <file name="u4314-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4315-4.png" crc="10757173" ref="tablet>index"/>
+    <file name="u4319-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4317-4.png" crc="3864689273" ref="tablet>index"/>
+    <file name="u4278.png" crc="4273012901" ref="tablet>index"/>
+    <file name="u4278-r.png" crc="309705275" ref="tablet>index"/>
+    <file name="u4295-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4296-4.png" crc="4119131592" ref="tablet>index"/>
+    <file name="u4292-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4290-4.png" crc="3870319408" ref="tablet>index"/>
+    <file name="u4304-4.png" crc="11823510" ref="tablet>index"/>
+    <file name="u4309-4.png" crc="18867698" ref="tablet>index"/>
+    <file name="u4307-4.png" crc="168007275" ref="tablet>index"/>
+    <file name="u4308-4.png" crc="3960756144" ref="tablet>index"/>
+    <file name="u4325-4.png" crc="4269907658" ref="tablet>index"/>
+    <file name="u4326-4.png" crc="98205869" ref="tablet>index"/>
+    <file name="u4287-4.png" crc="4224992571" ref="tablet>index"/>
+    <file name="u4283-4.png" crc="3824308884" ref="tablet>index"/>
+    <file name="u4334.png" crc="3774619066" ref="tablet>index"/>
+    <file name="u4334-r.png" crc="4223381184" ref="tablet>index"/>
+    <file name="u4334-a.png" crc="3774619066" ref="tablet>index"/>
+    <file name="u4332.png" crc="371710034" ref="tablet>index"/>
+    <file name="u4332-a.png" crc="371710034" ref="tablet>index"/>
+    <file name="u4340.png" crc="3989943999" ref="tablet>index"/>
+    <file name="u4340-a.png" crc="3989943999" ref="tablet>index"/>
+    <file name="u4336-6.png" crc="65867754" ref="tablet>index"/>
+    <file name="u4338.png" crc="149401176" ref="tablet>index"/>
+    <file name="u4338-a.png" crc="149401176" ref="tablet>index"/>
+    <file name="u4007-4.png" crc="4065423820" ref="tablet>index"/>
+    <file name="u4013-4.png" crc="4046388738" ref="tablet>index"/>
+    <file name="u4011-6.png" crc="226012103" ref="tablet>index"/>
+    <file name="u4000.png" crc="289858044" ref="tablet>index"/>
+    <file name="u4000-r.png" crc="4235598235" ref="tablet>index"/>
+    <file name="u4000-a.png" crc="289858044" ref="tablet>index"/>
+    <file name="u4002.png" crc="3999877540" ref="tablet>index"/>
+    <file name="u4002-r.png" crc="3947333284" ref="tablet>index"/>
+    <file name="u4002-a.png" crc="3999877540" ref="tablet>index"/>
+    <file name="u3998.png" crc="152270908" ref="tablet>index"/>
+    <file name="u3998-r.png" crc="238325641" ref="tablet>index"/>
+    <file name="u3998-a.png" crc="152270908" ref="tablet>index"/>
+    <file name="u4019-4.png" crc="184010477" ref="tablet>index"/>
+    <file name="u3987.png" crc="155126335" ref="tablet>index"/>
+    <file name="u3987-r.png" crc="515897829" ref="tablet>index"/>
+    <file name="u3987-a.png" crc="155126335" ref="tablet>index"/>
+    <file name="u3989.png" crc="147340123" ref="tablet>index"/>
+    <file name="u3989-r.png" crc="4078518851" ref="tablet>index"/>
+    <file name="u3989-a.png" crc="147340123" ref="tablet>index"/>
+    <file name="u3991.png" crc="3995886601" ref="tablet>index"/>
+    <file name="u3991-r.png" crc="92442904" ref="tablet>index"/>
+    <file name="u3991-a.png" crc="3995886601" ref="tablet>index"/>
+    <file name="img_3556-crop-u3960.jpg" crc="3888633097" ref="tablet>index"/>
+    <file name="img_7297-crop-u3950.jpg" crc="293108699" ref="tablet>index"/>
+    <file name="img_3556-crop-u3915.jpg" crc="4232191224" ref="tablet>index"/>
+    <file name="img_7297-crop-u3925.jpg" crc="183725714" ref="tablet>index"/>
+    <file name="u3936-4.png" crc="111450587" ref="tablet>index"/>
+    <file name="u3933-4.png" crc="3777254670" ref="tablet>index"/>
+    <file name="u3932-4.png" crc="164712567" ref="tablet>index"/>
+    <file name="u3941-4.png" crc="95842220" ref="tablet>index"/>
+    <file name="u3935-5.png" crc="367977645" ref="tablet>index"/>
+    <file name="u3937-4.png" crc="379871339" ref="tablet>index"/>
+    <file name="u3940-4.png" crc="3955265984" ref="tablet>index"/>
+    <file name="u3938-4.png" crc="39515475" ref="tablet>index"/>
+    <file name="u3939-4.png" crc="368654853" ref="tablet>index"/>
+    <file name="u3934-4.png" crc="463175462" ref="tablet>index"/>
+    <file name="u3766-3.png" crc="521115149" ref="index"/>
+    <file name="u3761-5.png" crc="6034377" ref="index"/>
+    <file name="u3762-6.png" crc="83982839" ref="index"/>
   </folder>
-  <file name="index.html" crc="174569332" seo="true" mt="1436945335173" redirect="true"/>
+  <file name="index.html" crc="3950470338" seo="true" mt="1437009799885" redirect="true"/>
 </manifest>

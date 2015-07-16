@@ -233,5 +233,6 @@
     <lastmod>2015-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.chinatowncafe12.com/tablet/index.html"/>
   </url>
 </urlset>
